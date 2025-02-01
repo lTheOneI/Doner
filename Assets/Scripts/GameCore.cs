@@ -4,13 +4,11 @@ using UnityEngine;
 
 public class GameCore : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public GameObject[] Spawnpoints;
     void Start()
     {
         
     }
-
-    // Update is called once per frame
     void Update()
     {
         
